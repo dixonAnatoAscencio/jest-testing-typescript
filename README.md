@@ -1,2 +1,7 @@
-# jest-testing-typescript
-Jest library testing with nodejs y typescript
+# 02 Bases de Node
+
+
+Correr en Dev
+```
+npm run dev
+```
